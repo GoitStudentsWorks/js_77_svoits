@@ -1,11 +1,11 @@
 {
-  "name": "parcel-project-template",
+  "name": "js_77_svoits",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://svoits.github.io/fson77-team5-book",
+  "homepage": "https://GoitStudentsWorks.github.io/js_77_svoits",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /fson77-team5-book/"
+    "build": "parcel build src/*.html --public-url /js_77_svoits/"
   },
   "repository": {
     "type": "git",
